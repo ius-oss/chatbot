@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+  <category>
+    <pattern>What's your name?</pattern>
+    <template>My name is...</template>
+  </category>
+    
+  <category>
+    <pattern>What would you like to do?</pattern>
+    <template>I want to...</template>
+   </category>
+   
+   <category>
+    <pattern>Where is the Square Plaza?</pattern>
+    <template>It is situaded near the Chapel Street.</template>
+  </category>
+  
+  <category>
+    <pattern>How can I get to the town hall?</pattern>
+    <template>Just follow the path throught this narrow street.</template>
+  </category>
+</aiml>
